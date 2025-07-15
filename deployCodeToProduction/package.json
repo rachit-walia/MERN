@@ -1,0 +1,17 @@
+{
+  "name": "deploycodetoproduction",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  }
+}
